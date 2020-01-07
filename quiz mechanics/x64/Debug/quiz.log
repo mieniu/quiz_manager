@@ -1,0 +1,7 @@
+﻿  Answer.cpp
+C:\Users\Mieniu\source\repos\Quiz Manager\quiz\Answer.cpp(6,18): error C2039: 'correct_id': is not a member of 'Answers'
+C:\Users\Mieniu\source\repos\Quiz Manager\quiz\Answer.h(3): message : see declaration of 'Answers'
+C:\Users\Mieniu\source\repos\Quiz Manager\quiz\Answer.cpp(6,28): error C2065: 'correct_id': undeclared identifier
+  Player.cpp
+C:\Users\Mieniu\source\repos\Quiz Manager\quiz\Player.cpp(20,45): error C2110: '+': cannot add two pointers
+  Generating Code...

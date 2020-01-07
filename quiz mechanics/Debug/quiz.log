@@ -1,0 +1,8 @@
+﻿  Answer.cpp
+D:\Programowanie\git\quiz mechanics\Answer.cpp(6,18): error C2039: 'correct_id': is not a member of 'Answers'
+D:\Programowanie\git\quiz mechanics\Answer.h(3): message : see declaration of 'Answers'
+D:\Programowanie\git\quiz mechanics\Answer.cpp(6,28): error C2065: 'correct_id': undeclared identifier
+  Player.cpp
+D:\Programowanie\git\quiz mechanics\Player.cpp(20,45): error C2110: '+': cannot add two pointers
+  Question.cpp
+  Generating Code...
